@@ -1,0 +1,39 @@
+body{
+    background-color:rgba(216, 209, 200, 0.959) ;
+    text-align: center;
+  }
+
+h1{
+    font-weight: lighter;
+    text-align: center;
+    text-shadow: grey;
+  }
+
+li{
+    font-weight: lighter;
+  }
+
+ol{
+    list-style-type: numbers;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+ul{
+    list-style-type: square;
+    text-align: left;
+    font-size: smaller;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+iframe{
+    text-align: center;
+  }
+
+footer{
+    text-align: center;
+  }
+
+h6{
+    font-weight: lighter;
+  }
